@@ -1,12 +1,10 @@
 package javaproject2;
 
-public class Hello {
+public class Goodbye {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello world");
-		System.out.println("End.");
-
+		System.out.println("Goodbye");
 	}
 
 }
